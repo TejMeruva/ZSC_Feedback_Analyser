@@ -3,4 +3,5 @@
 *.zip
 *.pptx
 names.md
-data
+data/
+*.DS_Store
