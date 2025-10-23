@@ -3,7 +3,7 @@
 This is a ramework to get numerical, comparable metrics for abstract information like interest in a particular service (Robotics Workshop in this case). E.g: Interest, Satsifaction, Knowledge Gain etc.
 
 ### Background
-A client had rolled out 13 google forms for getting feedback from students attending his robotics ∑orkshops. The questions from one worksheet were repeated in the next but the method of answering was not consistent. the answer was given as a rating out of 10 in some and as a textual feedback in other. The numebr of form-takers was 872. The large volume of input and the irregular structure of the data made analysis difficult. 
+My client had rolled out 13 google forms for getting feedback from students attending his robotics workshops. The questions from one worksheet were repeated in the next but the method of answering was not consistent. the answer was given as a rating out of 10 in some and as a textual feedback in other. The numebr of form-takers was 872. The large volume of input and the irregular structure of the data made analysis difficult. 
 
 This framework was developed to combine non-numerical and numerical answers to similar but non-identical questions and get a comparable numerical values for a particular metric (say satisfaction with the workshop) to facilitate analysis.
 
